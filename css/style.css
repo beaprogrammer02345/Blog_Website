@@ -90,7 +90,7 @@
 }
 .content::before{
     content: "";
-    background: url('/image/bg2.jpg') no-repeat right center;
+    background: url('image/bg2.jpg') no-repeat right center;
     position: absolute;
     width: 100%;
     height: inherit;
